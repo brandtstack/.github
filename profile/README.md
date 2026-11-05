@@ -7,7 +7,7 @@ The organisation behind [brandtstack.com](https://brandtstack.com): websites and
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-public-dark.svg"><img src="assets/h-public-light.svg" height="34" alt="In the open"></picture>
 
-**[tabcheck](https://github.com/brandtstack/tabcheck)** · Does your favicon actually show up on a browser tab? Checks SVG icons on real light and dark tabs in Chromium, fails CI when the mark disappears, then exports the whole icon set. On npm as `tabcheck`.
+**[tabcheck](https://github.com/brandtstack/tabcheck)** · Does your favicon actually show up on a browser tab? Checks SVG icons on real light and dark tabs in Chromium, fails CI when the mark disappears, then exports the whole icon set.
 
 **[workspace-ci](https://github.com/brandtstack/workspace-ci)** · Reusable GitHub Actions workflows and a Renovate preset. The repos here use them to verify, version, build and release.
 
